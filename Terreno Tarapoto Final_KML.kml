@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="terreno_tarapoto_qgis" id="terreno_tarapoto_qgis">
+	<SimpleField name="VERT." type="string"></SimpleField>
+	<SimpleField name="LADO" type="string"></SimpleField>
+	<SimpleField name="DIST." type="float"></SimpleField>
+	<SimpleField name="ANGULO" type="string"></SimpleField>
+	<SimpleField name="ESTE" type="float"></SimpleField>
+	<SimpleField name="NORTE" type="float"></SimpleField>
+</Schema>
+<Folder><name>terreno_tarapoto_qgis</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P1</SimpleData>
+		<SimpleData name="LADO">P1 - P2</SimpleData>
+		<SimpleData name="DIST.">77.1</SimpleData>
+		<SimpleData name="ANGULO">168°10'48''</SimpleData>
+		<SimpleData name="ESTE">342567</SimpleData>
+		<SimpleData name="NORTE">9266698</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4241346260741,-6.63207183719997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P2</SimpleData>
+		<SimpleData name="LADO">P2 - P3</SimpleData>
+		<SimpleData name="DIST.">234.8</SimpleData>
+		<SimpleData name="ANGULO">178°45'14''</SimpleData>
+		<SimpleData name="ESTE">342503</SimpleData>
+		<SimpleData name="NORTE">9266741</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4247123296084,-6.63168131370287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P3</SimpleData>
+		<SimpleData name="LADO">P3 - P4</SimpleData>
+		<SimpleData name="DIST.">126.48</SimpleData>
+		<SimpleData name="ANGULO">178°21'25''</SimpleData>
+		<SimpleData name="ESTE">342305.3019</SimpleData>
+		<SimpleData name="NORTE">9266867.6761</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4264970285311,-6.63053060782103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P4</SimpleData>
+		<SimpleData name="LADO">P4 - P5</SimpleData>
+		<SimpleData name="DIST.">160.31</SimpleData>
+		<SimpleData name="ANGULO">176°52'58''</SimpleData>
+		<SimpleData name="ESTE">342196.8939</SimpleData>
+		<SimpleData name="NORTE">9266932.8318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4274757786344,-6.629938566903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P5</SimpleData>
+		<SimpleData name="LADO">P5 - P6</SimpleData>
+		<SimpleData name="DIST.">111.27</SimpleData>
+		<SimpleData name="ANGULO">191°49'22''</SimpleData>
+		<SimpleData name="ESTE">342055.2022</SimpleData>
+		<SimpleData name="NORTE">9267007.8211</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4287552880201,-6.62925673002353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P6</SimpleData>
+		<SimpleData name="LADO">P6 - P6</SimpleData>
+		<SimpleData name="DIST.">158.65</SimpleData>
+		<SimpleData name="ANGULO">214°51'8''</SimpleData>
+		<SimpleData name="ESTE">341969.6065</SimpleData>
+		<SimpleData name="NORTE">9267078.9154</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4295275633789,-6.6286115757002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P7</SimpleData>
+		<SimpleData name="LADO">P7 - P8</SimpleData>
+		<SimpleData name="DIST.">132.12</SimpleData>
+		<SimpleData name="ANGULO">173°43'48''</SimpleData>
+		<SimpleData name="ESTE">341927.3807</SimpleData>
+		<SimpleData name="NORTE">9267231.8476</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4299054680563,-6.62722746867694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P8</SimpleData>
+		<SimpleData name="LADO">P8 - P9</SimpleData>
+		<SimpleData name="DIST.">222.97</SimpleData>
+		<SimpleData name="ANGULO">170°35'51''</SimpleData>
+		<SimpleData name="ESTE">341878.5175</SimpleData>
+		<SimpleData name="NORTE">9267354.6018</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4303441859568,-6.62611609652281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P9</SimpleData>
+		<SimpleData name="LADO">P9 - P10</SimpleData>
+		<SimpleData name="DIST.">285.25</SimpleData>
+		<SimpleData name="ANGULO">177°15'34''</SimpleData>
+		<SimpleData name="ESTE">341763.3198</SimpleData>
+		<SimpleData name="NORTE">9267545.5072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4313810492542,-6.62438668611142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P10</SimpleData>
+		<SimpleData name="LADO">P10 - P11</SimpleData>
+		<SimpleData name="DIST.">326.97</SimpleData>
+		<SimpleData name="ANGULO">199°56'54''</SimpleData>
+		<SimpleData name="ESTE">341604.435</SimpleData>
+		<SimpleData name="NORTE">9267782.4118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4328118064761,-6.62224015280377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P11</SimpleData>
+		<SimpleData name="LADO">P11 - P12</SimpleData>
+		<SimpleData name="DIST.">138.29</SimpleData>
+		<SimpleData name="ANGULO">95°50'47''</SimpleData>
+		<SimpleData name="ESTE">341525.8856</SimpleData>
+		<SimpleData name="NORTE">9268099.81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4335139137831,-6.61936779004714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P12</SimpleData>
+		<SimpleData name="LADO">P12 - P13</SimpleData>
+		<SimpleData name="DIST.">43.93</SimpleData>
+		<SimpleData name="ANGULO">146°21'8''</SimpleData>
+		<SimpleData name="ESTE">341388.9568</SimpleData>
+		<SimpleData name="NORTE">9268080.4346</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4347527766162,-6.61953943306693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P13</SimpleData>
+		<SimpleData name="LADO">P13 - P14</SimpleData>
+		<SimpleData name="DIST.">1188.6</SimpleData>
+		<SimpleData name="ANGULO">103°59'10''</SimpleData>
+		<SimpleData name="ESTE">341356.1606</SimpleData>
+		<SimpleData name="NORTE">9268051.2128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4350501421551,-6.6198028367221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P14</SimpleData>
+		<SimpleData name="LADO">P14 - P15</SimpleData>
+		<SimpleData name="DIST.">919.22</SimpleData>
+		<SimpleData name="ANGULO">154°37'11''</SimpleData>
+		<SimpleData name="ESTE">341908.956</SimpleData>
+		<SimpleData name="NORTE">9266998.9805</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4300781691605,-6.62933286805233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P15</SimpleData>
+		<SimpleData name="LADO">P15 - P16</SimpleData>
+		<SimpleData name="DIST.">115.06</SimpleData>
+		<SimpleData name="ANGULO">51°6'13''</SimpleData>
+		<SimpleData name="ESTE">342643.9998</SimpleData>
+		<SimpleData name="NORTE">9266447.0065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4234447499507,-6.63434364349847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P16</SimpleData>
+		<SimpleData name="LADO">P16 - P17</SimpleData>
+		<SimpleData name="DIST.">55.33</SimpleData>
+		<SimpleData name="ANGULO">188°13'5''</SimpleData>
+		<SimpleData name="ESTE">342640</SimpleData>
+		<SimpleData name="NORTE">9266562</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4234779390256,-6.63330361993866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#terreno_tarapoto_qgis">
+		<SimpleData name="VERT.">P17</SimpleData>
+		<SimpleData name="LADO">P17 - P18</SimpleData>
+		<SimpleData name="DIST.">113.15</SimpleData>
+		<SimpleData name="ANGULO">129°29'25''</SimpleData>
+		<SimpleData name="ESTE">342646</SimpleData>
+		<SimpleData name="NORTE">9266617</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4234222466932,-6.63280639463995</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1F4BKOdIumqBhBYdrTxAsYemZFwJHrkA1">
+	<name>Proyecto sin título</name>
+	<Schema name="__managed_schema" id="__managed_schema">
+		<SimpleField type="string" name="COL522346C3C0DA5B39">
+			<displayName>VERT.</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="COL522346C3C03C952F">
+			<displayName>LADO</displayName>
+		</SimpleField>
+		<SimpleField type="double" name="COL522346C3C0EE48B3">
+			<displayName>DIST.</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="COL522346C3C06FBE82">
+			<displayName>ANGULO</displayName>
+		</SimpleField>
+		<SimpleField type="double" name="COL522346C3C05A85B9">
+			<displayName>ESTE</displayName>
+		</SimpleField>
+		<SimpleField type="double" name="COL522346C3C02EB2A1">
+			<displayName>NORTE</displayName>
+		</SimpleField>
+	</Schema>
+	<gx:CascadingStyle kml:id="__managed_style_29DFA6BD693545976921">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1405C8901E3545976921">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_067C506E573545976921">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1405C8901E3545976921</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_29DFA6BD693545976921</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="522346C1D9000001">
+		<name>terreno_tarapoto_qgis</name>
+		<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+		<Placemark id="522346C1D9000002">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P1</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P1 - P2</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">77.1</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">168°10&apos;48&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">342567</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9266698</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.42413462607411,-6.63207183719997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="522346C1DA000003">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P2</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P2 - P3</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">234.8</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">178°45&apos;14&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">342503</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9266741</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.4247123296084,-6.63168131370287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="522346C1DA000004">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P3</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P3 - P4</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">126.48</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">178°21&apos;25&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">342305.3019</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9266867.6761</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.4264970285311,-6.63053060782103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="522346C1DA000005">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P4</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P4 - P5</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">160.31</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">176°52&apos;58&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">342196.8939</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9266932.8318</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.4274757786344,-6.629938566903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="522346C1DA000006">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P5</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P5 - P6</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">111.27</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">191°49&apos;22&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">342055.2022</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9267007.8211</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.4287552880201,-6.62925673002353,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="522346C1DA000007">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P6</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P6 - P6</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">158.65</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">214°51&apos;8&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">341969.6065</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9267078.9154</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.4295275633789,-6.6286115757002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="522346C1DA000008">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P7</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P7 - P8</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">132.12</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">173°43&apos;48&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">341927.3807</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9267231.8476</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.4299054680563,-6.62722746867694,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="522346C1DA000009">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P8</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P8 - P9</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">222.97</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">170°35&apos;51&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">341878.5175</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9267354.6018</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.4303441859568,-6.62611609652281,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="522346C1DA00000A">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P9</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P9 - P10</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">285.25</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">177°15&apos;34&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">341763.3198</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9267545.5072</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.4313810492542,-6.62438668611142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="522346C1DA00000B">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P10</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P10 - P11</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">326.97</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">199°56&apos;54&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">341604.435</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9267782.4118</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.4328118064761,-6.62224015280377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="522346C1DA00000C">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P11</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P11 - P12</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">138.29</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">95°50&apos;47&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">341525.8856</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9268099.81</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.4335139137831,-6.61936779004714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="522346C1DA00000D">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P12</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P12 - P13</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">43.93</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">146°21&apos;8&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">341388.9568</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9268080.4346</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.43475277661619,-6.619539433066931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="522346C1DA00000E">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P13</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P13 - P14</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">1188.6</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">103°59&apos;10&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">341356.1606</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9268051.2128</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.43505014215511,-6.6198028367221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="522346C1DA00000F">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P14</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P14 - P15</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">919.22</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">154°37&apos;11&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">341908.956</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9266998.9805</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.4300781691605,-6.629332868052331,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="522346C1DA000010">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P15</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P15 - P16</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">115.06</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">51°6&apos;13&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">342643.9998</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9266447.0065</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.4234447499507,-6.63434364349847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="522346C1DA000011">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P16</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P16 - P17</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">55.33</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">188°13&apos;5&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">342640</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9266562</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.4234779390256,-6.63330361993866,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="522346C1DA000012">
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="COL522346C3C0DA5B39">P17</SimpleData>
+					<SimpleData name="COL522346C3C03C952F">P17 - P18</SimpleData>
+					<SimpleData name="COL522346C3C0EE48B3">113.15</SimpleData>
+					<SimpleData name="COL522346C3C06FBE82">129°29&apos;25&apos;&apos;</SimpleData>
+					<SimpleData name="COL522346C3C05A85B9">342646</SimpleData>
+					<SimpleData name="COL522346C3C02EB2A1">9266617</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.42342224669321,-6.63280639463995,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="01175F95013545CB3015">
+			<name>Terreno Tarapoto 25.5 Ha</name>
+			<LookAt>
+				<longitude>-76.42800881120633</longitude>
+				<latitude>-6.623361881206649</latitude>
+				<altitude>621.3991664668798</altitude>
+				<heading>1.284145711166021</heading>
+				<tilt>5.969393478095918</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>4622.413959330297</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_067C506E573545976921</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-76.42413453763163,-6.632070478680901,0 -76.4247125098515,-6.631680627183557,0 -76.42649724775971,-6.630529896396185,0 -76.42747599234237,-6.629938105799171,0 -76.42875560739158,-6.629255963040573,0 -76.42952769352638,-6.628610659638643,0 -76.42990582866834,-6.627226796801142,0 -76.43034443817969,-6.626115147095049,0 -76.43138134204972,-6.624386199789775,0 -76.43281214857116,-6.622239121729724,0 -76.43351409207312,-6.619366996079004,0 -76.43475295760524,-6.619538488025507,0 -76.43505030107592,-6.619801741128017,0 -76.43007818308456,-6.629331984539371,0 -76.42344497680503,-6.634342753842998,0 -76.42347817688884,-6.633302847734591,0 -76.42342251471615,-6.632805313457549,0 -76.42413453763163,-6.632070478680901,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
